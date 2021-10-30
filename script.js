@@ -690,7 +690,7 @@ function handleEscKey() {
         .addClass("animated slideOutLeft");
       return false;
     }
-  });
+  })
 }
 
 function handleTyping () {
